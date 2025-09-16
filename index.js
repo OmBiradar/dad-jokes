@@ -11,7 +11,12 @@ const jokes = [
   "Why don't skeletons fight each other? They don't have the guts.",
   "What do you call fake spaghetti? An impasta!",
   "How do you organize a space party? You planet.",
-  "Why did the math book look sad? Because it had too many problems."
+  "Why did the math book look sad? Because it had too many problems.",
+  "I used to hate facial hair, but then it grew on me.",
+  "How do you make holy water? Boil the hell out of it.",
+  "What did the grape say when it got stepped on? Nothing, it just let out a little wine.",
+  "Why can't you hear a pterodactyl going to the bathroom? The “P” is silent.",
+  "Why do bees have sticky hair? They use a honeycomb."
 ];
 
 function random() {
