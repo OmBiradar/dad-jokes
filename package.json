@@ -1,0 +1,13 @@
+{
+  "name": "@ombiradar/dad-jokes",
+  "version": "1.0.0",
+  "description": "A simple npm library for random dad jokes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["dad jokes", "jokes", "funny", "random"],
+  "author": "Your Name",
+  "license": "ISC",
+  "type": "module"
+}
